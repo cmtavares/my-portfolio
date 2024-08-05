@@ -110,30 +110,35 @@ export const testimonials = [
       "",
     name: "",
     title: "",
+    img: "",
   },
   {
     quote:
       "",
     name: "",
     title: "",
+    img: "",
   },
   {
     quote:
       "",
     name: "",
     title: "",
+    img: "",
   },
   {
     quote:
       "",
     name: "",
     title: "",
+    img: "",
   },
   {
     quote:
       "",
     name: "",
     title: "",
+    img: "",
   },
 ];
 
