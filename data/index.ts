@@ -209,14 +209,17 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    link: "https://github.com/cmtavares",
     img: "/git.svg",
   },
   {
     id: 2,
+    link: "https://x.com/devcmtavares",
     img: "/twit.svg",
   },
   {
     id: 3,
+    link: "https://www.linkedin.com/in/carlos-tavares-5bb2b32a1/",
     img: "/link.svg",
   },
 ];
