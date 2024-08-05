@@ -29,7 +29,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Carlos! A Next.js Developer based in <span className="animate-color-change-br gradient-br">Brazil.</span>
+            Hi, I&apos;m Carlos Tavares! A Next.js Developer based in <span className="animate-color-change-br gradient-br">Brazil.</span>
           </p>
 
           <a href="#about">
