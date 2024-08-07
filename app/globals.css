@@ -98,3 +98,9 @@
     text-fill-color: transparent
   }
 }
+
+@media (max-width: 1240px) {
+  html {
+    zoom: 90%;
+  }
+}
